@@ -2,7 +2,7 @@
 // C# Pattern Matching programming challenge
 
 // Code to calculate the trade commission
-public class CommisionCalculator
+public class CommissionCalculator
 {
     public static decimal CalculateTradeCommission(SecuritiesTrade trade)
     {
